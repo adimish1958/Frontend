@@ -1,0 +1,32 @@
+header {
+    font-size: 64px;
+    color: blueviolet;
+}
+article {
+    font-size: 25px;
+    color: green
+    
+
+}
+p {
+    font-size: 18px;
+    color: brown;
+}
+.highlight{
+    text-transform: capitalize;
+    background-color: yellow;
+    font-style: italic;
+
+}
+
+.gray{
+    color: red;
+}
+.p2 {
+    font-style: italic;
+    color: black;
+}
+#id3 {
+    font-style: oblique;
+    color: aqua;
+}
